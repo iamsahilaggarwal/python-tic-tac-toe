@@ -32,7 +32,7 @@ def home(x,y):
     turtle.hideturtle()
     turtle.speed(0)
     turtle.clear()
-    turtle.title("Tic-Tac-Toe")
+    turtle.title(" Tic-Tac-Toe ")
     draw_home()
     turtle.onscreenclick(homeselect)
     turtle.mainloop()
